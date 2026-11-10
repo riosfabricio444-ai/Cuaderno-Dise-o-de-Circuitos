@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 MI PORTAFOLIO DE MATEMÁTICAS DISCRETAS
+# 📚 MI PORTAFOLIO DE DISEÑO DE CIRCUITOS
 
 <img width="603" height="182" alt="Logo" src="https://github.com/user-attachments/assets/31e7a61e-c7ac-479c-bea2-6102a77d3d5c" />
 
@@ -32,7 +32,8 @@ En este espacio podrás encontrar las actividades, prácticas, ejercicios y proy
 
 <br>
 
-<img width="1000" alt="Portafolio" src="https://github.com/user-attachments/assets/034d0d6a-9b29-41cd-a6bf-ad10856ec251" />
+<<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/ce201ce7-177d-480a-8ce4-52ca5ed4b897" />
+>
 
 <br>
 
