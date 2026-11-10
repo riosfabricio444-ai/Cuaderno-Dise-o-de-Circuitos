@@ -9,12 +9,10 @@
 | **SECCIÓN** | **PROGRESO** | ACCESO |
 | :--- | :---| :--- |
 | **CARATULA:** | Terminada✅| [Ingresar📂](Carátula.md) |
-| **UNIDAD 1:** | Terminada✅ |  [Ingresar📂](UNIDAD1.md) |
-| **UNIDAD 2:** | Terminada✅ |  [Ingresar📂](UNIDAD2.md) |
-| **UNIDAD 3:** |Terminada✅ |  [Ingresar📂](UNIDAD3.md) |
+| **UNIDAD 1:** | Terminada✅ |  [Ingresar📂](UNIDAD-1.md) |
+| **UNIDAD 2:** | Bloqueado🔒 |  [Ingresar📂](UNIDAD2.md) |
+| **UNIDAD 3:** |Bloqueado🔒 |  [Ingresar📂](UNIDAD3.md) |
 | **CONCLUSIONES:** | Terminada✅ | [Ingresar📂](CONCLUSIONES.md)  |
-| **BIBLIOGRAFÍA:** | Terminada✅ | [Ingresar📂](BIBLIOGRAFÍA.md) |
-| **USO DE LA IA:** | Terminada✅ |  [Ingresar📂](IA.md) |
 
 
 
