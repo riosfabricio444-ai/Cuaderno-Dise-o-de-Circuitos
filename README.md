@@ -6,7 +6,7 @@
 
 ## 👋 Bienvenido a mi portafolio digital
 
-En este espacio podrás encontrar las actividades, prácticas, ejercicios y proyectos desarrollados durante el curso de **Matemáticas Discretas**, organizados por unidades para facilitar su consulta y seguimiento académico.
+Este portafolio académico reúne las bases teóricas, análisis y prácticas desarrolladas en la materia de Diseño de Circuitos. Su propósito es documentar el estudio formal de los sistemas electrónicos y la lógica digital, comprendiendo la transición fundamental entre el software y la estructura física del hardware dentro de la computación.
 
 <br>
 
