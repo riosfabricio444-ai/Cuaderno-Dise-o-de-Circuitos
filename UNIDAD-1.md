@@ -31,7 +31,7 @@ Los códigos son combinaciones de bits (ceros y unos) diseñadas para representa
 Son circuitos electrónicos elementales construidos con transistores que realizan operaciones lógicas booleanas (AND, OR, NOT, NAND, NOR, XOR, XNOR). Toman una o más entradas binarias (0 o 1) y producen una única salida basada en una regla lógica. Son los bloques fundamentales de construcción de cualquier procesador o circuito digital.
 
 ## Semana 2: Álgebra de Boole y formas canónicas
-### 1. Formas Canónicas (SOP y POS)**
+### 1. Formas Canónicas (SOP y POS)
 Una función lógica se puede expresar de forma única utilizando minitérminos o maxitérminos a partir de su tabla de verdad:
 
 **SOP (Suma de Productos - Minitérminos):** Es una suma (OR lógico) de términos producto (AND lógico) donde cada término incluye todas las variables de entrada en su forma directa o negada para las filas donde la salida es 1.
@@ -43,6 +43,10 @@ Una función lógica se puede expresar de forma única utilizando minitérminos 
 Consiste en aplicar los postulados, teoremas y leyes del álgebra de Boole (como la ley de absorción, idempotencia y adyacencia) para reducir una expresión canónica compleja a su mínima expresión en compuertas, disminuyendo el número de variables y literales sin alterar la tabla de verdad del circuito.
 
 ## Semana 3: Mapas de Karnaugh - Indiferentes y NAND/NOR
-
-
+### 1. Mapas de Karnaugh (K-Maps)
+Un Mapa de Karnaugh es un método gráfico de reorganización de tablas de verdad en una cuadrícula bidimensional, utilizada para simplificar expresiones booleanas de forma intuitiva sin necesidad de desarrollar complejas demostraciones algebraicas. Se basa en el principio de adyacencia lógica (código Gray), donde las celdas contiguas solo difieren en un bit. Esto permite identificar y agrupar visualmente términos adyacentes en bloques de potencias de $2$ ($1, 2, 4, 8, 16$) para eliminar las variables que cambian de estado.
+### 2. Condiciones Indiferentes (Don't Care)
+Las condiciones indiferentes (representadas por una $X$ o la letra $d$) son combinaciones específicas de las variables de entrada que nunca ocurrirán en el funcionamiento real del sistema, o cuyas salidas no producen ningún impacto en la operación deseada. En la etapa de simplificación con Mapas de Karnaugh, el diseñador tiene la libertad de asumir el valor de cada $X$ estratégicamente como un $1$ (para formar grupos más grandes y obtener términos más sencillos) o como un $0$ (si no ayuda a agrandar ningún grupo).
+### 3. Conversión a Lógica Universal (Sólo Compuertas NAND)
+Las compuertas NAND (y NOR) se clasifican como compuertas universales porque cualquier circuito o función lógica (formada por AND, OR y NOT) puede implementarse exclusivamente con este tipo de compuerta. La conversión desde una expresión simplificada en Suma de Productos (SOP) se logra aplicando el teorema de doble negación y las leyes de De Morgan, lo que transforma un circuito de dos niveles AND-OR en una red estructuralmente idéntica compuesta únicamente por compuertas NAND.
 ## Semana 4: Circuitos aritméticos: semisumador, sumador completo, sumador de 4 bits, resta, overflow y comparador
