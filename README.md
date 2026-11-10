@@ -19,10 +19,10 @@
 | 📌 **INFORMACIÓN**       | 📖 **DETALLES**             |
 | :----------------------- | :-------------------------- |
 | **👤 Estudiante**        | Edgar Fabricio Rios Cuenca  |
-| **📚 Asignatura**        | Matemáticas Discretas       |
-| **👨‍🏫 Docente**        | Mario Enrique Cueva Hurtado |
-| **🎓 Ciclo**             | 1A                          |
-| **📅 Período Académico** | Abril - Agosto 2026         |
+| **📚 Asignatura**        | Diseño de Circuitos     |
+| **👨‍🏫 Docente**        | Luis Dario Sinche Cueva |
+| **🎓 Ciclo**             | 2A                          |
+| **📅 Período Académico** | Septiembre - Marzo    |
 
 ---
 
