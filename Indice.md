@@ -10,8 +10,8 @@
 | :--- | :---| :--- |
 | **CARATULA:** | Terminada✅| [Ingresar📂](Carátula.md) |
 | **UNIDAD 1:** | Terminada✅ |  [Ingresar📂](UNIDAD-1.md) |
-| **UNIDAD 2:** | Bloqueado🔒 |  [🔒) |
-| **UNIDAD 3:** |Bloqueado🔒 |  [🔒 |
+| **UNIDAD 2:** | Bloqueado🔒 | 🔒 |
+| **UNIDAD 3:** |Bloqueado🔒 | 🔒 |
 | **CONCLUSIONES:** | Terminada✅ | [Ingresar📂](CONCLUSIONES.md)  |
 
 
