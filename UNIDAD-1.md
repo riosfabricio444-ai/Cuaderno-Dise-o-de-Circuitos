@@ -31,7 +31,16 @@ Los códigos son combinaciones de bits (ceros y unos) diseñadas para representa
 Son circuitos electrónicos elementales construidos con transistores que realizan operaciones lógicas booleanas (AND, OR, NOT, NAND, NOR, XOR, XNOR). Toman una o más entradas binarias (0 o 1) y producen una única salida basada en una regla lógica. Son los bloques fundamentales de construcción de cualquier procesador o circuito digital.
 
 ## Semana 2: Álgebra de Boole y formas canónicas
+### 1. Formas Canónicas (SOP y POS)**
+Una función lógica se puede expresar de forma única utilizando minitérminos o maxitérminos a partir de su tabla de verdad:
 
+**SOP (Suma de Productos - Minitérminos):** Es una suma (OR lógico) de términos producto (AND lógico) donde cada término incluye todas las variables de entrada en su forma directa o negada para las filas donde la salida es 1.
+
+**POS (Producto de Sumas - Maxitérminos):** Es un producto (AND lógico) de términos suma (OR lógico) donde se evalúan las filas donde la salida es 0.
+
+### 2. Simplificación Algebraica mediante Álgebra de Boole
+
+Consiste en aplicar los postulados, teoremas y leyes del álgebra de Boole (como la ley de absorción, idempotencia y adyacencia) para reducir una expresión canónica compleja a su mínima expresión en compuertas, disminuyendo el número de variables y literales sin alterar la tabla de verdad del circuito.
 
 ## Semana 3: Mapas de Karnaugh - Indiferentes y NAND/NOR
 
