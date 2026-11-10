@@ -2,8 +2,7 @@
   
 # UNIDAD 1
 # Análisis de lógica combinacional con diseño clásico
-
-<div>
+</div>
   
 # CONTENIDOS:
   
