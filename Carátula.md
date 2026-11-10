@@ -24,7 +24,7 @@
 
 ---
   <p align="center">
-   <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/README.md">
+   <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/Indice.md">
     <kbd style="
       background-color: #0056b3;
       color: #ffffff;
