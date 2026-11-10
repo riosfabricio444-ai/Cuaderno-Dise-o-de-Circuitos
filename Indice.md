@@ -8,7 +8,7 @@
 
 | **SECCIÓN** | **PROGRESO** | ACCESO |
 | :--- | :---| :--- |
-| **CARATULA:** | Terminada✅| [Ingresar📂](CARATULA.md) |
+| **CARATULA:** | Terminada✅| [Ingresar📂](Carátula.md) |
 | **UNIDAD 1:** | Terminada✅ |  [Ingresar📂](UNIDAD1.md) |
 | **UNIDAD 2:** | Terminada✅ |  [Ingresar📂](UNIDAD2.md) |
 | **UNIDAD 3:** |Terminada✅ |  [Ingresar📂](UNIDAD3.md) |
