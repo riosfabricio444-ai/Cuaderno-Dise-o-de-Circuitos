@@ -18,7 +18,7 @@
 
 
   <p align="center">
-   <a href="https://github.com/riosfabricio444-ai/Portafolio-T.D.-P./blob/main/PORTAFOLIO.md" style="text-decoration: none;">
+   <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/README.md">
     <kbd style="
       background-color: #0056b3;
       color: #ffffff;
