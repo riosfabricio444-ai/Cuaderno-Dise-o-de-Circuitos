@@ -39,7 +39,7 @@ En este espacio podrás encontrar las actividades, prácticas, ejercicios y proy
 
 # 📂 Acceso al contenido del portafolio
 
-## 👉 [Clic aquí para ingresar](https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/UNIDAD%201)
+## 👉 [Clic aquí para ingresar](Indice.md)
 
 ---
 
