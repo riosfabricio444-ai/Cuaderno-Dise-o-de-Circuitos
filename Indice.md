@@ -4,7 +4,7 @@
 
 <br>
 
-| **SECCIÓN** | **ESTADO** | ACCESO AL CONTENIDO |
+| **SECCIÓN** | **ESTADO** | ACCESO |
 | :--- | :---: | :--- |
 | **CARÁTULA** | Completado ✅ | [Ingresar 📂](Carátula.md) |
 | **UNIDAD 1** | Completado ✅ | [Ingresar 📂](UNIDAD-1.md) |
