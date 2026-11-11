@@ -15,7 +15,7 @@
 - Comprendí la eficiencia de los Mapas de Karnaugh frente al álgebra tradicional para simplificar funciones de hasta cuatro variables de forma visual. Asimismo, integré el uso de condiciones indiferentes (Don't Care) y aprendí a diseñar circuitos empleando únicamente compuertas universales (NAND/NOR), optimizando costos y componentes de hardware.
 
 **Semana 4 (Circuitos aritméticos, desbordamiento y comparadores):**
-- Analicé y simulé el funcionamiento interno de los circuitos aritméticos fundamentales, desde semisumadores hasta sumadores completos de 4 bits y restadores basados en complemento a dos. Comprendí la importancia vital de la detección de desbordamiento (overflow) y el uso de comparadores de magnitud en la arquitectura de la unidad de procesamiento.
+- Analicé y simulé el funcionamiento interno de los circuitos aritméticos fundamentales, desde semisumadores hasta sumadores completos de 4 bits y restadores basados en complemento a dos. 
 
 --
   <p align="center">
