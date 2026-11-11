@@ -176,3 +176,22 @@ Circuito combinacional que evalúa dos palabras binarias ($A$ y $B$) generando t
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c60621ef-5e30-466b-8c42-8b9186c92624" />
 
+
+--
+  <p align="center">
+   <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/Indice.md">
+    <kbd style="
+      background-color: #0056b3;
+      color: #ffffff;
+      border: 2px solid #00a4ff;
+      border-radius: 8px;
+      padding: 15px 35px;
+      font-size: 16px;
+      font-weight: bold;
+      display: inline-block;
+      font-family: sans-serif;
+    ">
+      🚀 CLIC PARA REGRESAR 🚀
+    </kbd>
+  </a>
+</p>
