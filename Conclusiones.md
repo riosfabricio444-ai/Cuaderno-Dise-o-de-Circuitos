@@ -17,23 +17,21 @@
 **Semana 4 (Circuitos aritméticos, desbordamiento y comparadores):**
 - Analicé y simulé el funcionamiento interno de los circuitos aritméticos fundamentales, desde semisumadores hasta sumadores completos de 4 bits y restadores basados en complemento a dos. Comprendí la importancia vital de la detección de desbordamiento (overflow) y el uso de comparadores de magnitud en la arquitectura de la unidad de procesamiento.
 
-<p align="center">
-  <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/README.md">
+--
+  <p align="center">
+   <a href="https://github.com/riosfabricio444-ai/Cuaderno-Dise-o-de-Circuitos/blob/main/Indice.md">
     <kbd style="
       background-color: #0056b3;
       color: #ffffff;
       border: 2px solid #00a4ff;
       border-radius: 8px;
-      padding: 14px 32px;
-      font-size: 15px;
+      padding: 15px 35px;
+      font-size: 16px;
       font-weight: bold;
       display: inline-block;
       font-family: sans-serif;
-      box-shadow: 0 4px 10px rgba(0, 86, 179, 0.3);
     ">
       🚀 CLIC PARA REGRESAR 🚀
     </kbd>
   </a>
 </p>
-
-</div>
