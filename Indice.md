@@ -10,7 +10,7 @@
 | **UNIDAD 1** | Completado ✅ | [Ingresar 📂](UNIDAD-1.md) |
 | **UNIDAD 2** | Bloqueado 🔒 | Bloqueado 🔒 |
 | **UNIDAD 3** | Bloqueado 🔒 | Bloqueado 🔒 |
-| **CONCLUSIONES** | Completado ✅ | [Ingresar 📂](CONCLUSIONES.md) |
+| **CONCLUSIONES** | Completado ✅ | [Ingresar 📂](Conclusiones.md) |
 
 <br>
 
